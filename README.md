@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="7170113c6a983.jpg" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSKim99JS)](https://github.com/anuraghazra/github-readme-stats)
